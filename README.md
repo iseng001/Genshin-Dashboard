@@ -1,0 +1,2 @@
+# Genshin-Dashboard
+Ndak tau
